@@ -17,9 +17,7 @@ function Home() {
                     </div>
                     <div className="col col-lg-7 col-xl-6 col-box">
                         <div className="container">
-                            <a href="https://github.com/Sgt-Cook1e">
-                                <img src="https://github-readme-stats.vercel.app/api?username=Sgt-Cook1e&theme=transparent&text_color=FFFFFF&title_color=FFFFFF" className="status"/>
-                            </a>
+                            <a href="https://github.com/Sgt-Cook1e"></a>
                         </div>
                     </div>
                 </div>
