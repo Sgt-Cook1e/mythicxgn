@@ -1,7 +1,6 @@
 function Home() {
     return (
         <main className="Home">
-            <Navbar></Navbar>
             <div className="background-image-div"/>
             <div className="container-md">
                 <div className="alert alert-warning">
@@ -26,7 +25,6 @@ function Home() {
                 </div>
                 {/* Text here */}
             </div>
-            <FooterComponent></FooterComponent>
         </main>
     );
 }
